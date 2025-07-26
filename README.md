@@ -9,6 +9,17 @@
 
 - 🔭 I’m currently working on [Qeong](https://qeong.com)
 
+## 📫 Hire Me
+I'm open for freelance or full-time opportunities!
+- Email: bobbyakyong@gmail.com
+- LinkedIn: [linkedin.com/in/bobbyakyong](https://linkedin.com/in/bobbyakyong)
+- Website: [www.bobbyakyong.com](https://www.bobbyakyong.com)
+
+---
+
+Feel free to reach out if you want to collaborate or hire me!
+---
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
